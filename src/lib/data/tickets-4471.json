@@ -1,0 +1,5 @@
+{
+  "parser": { "issue": 1, "url": "https://github.com/iskrzycki/mega-what-it-shows/issues/1", "title": "Shared date parser reads day-first dates month first" },
+  "hint": { "issue": 2, "url": "https://github.com/iskrzycki/mega-what-it-shows/issues/2", "title": "booking-v3 date hint tells day-first tenants to type month first" },
+  "one-day": { "issue": 3, "url": "https://github.com/iskrzycki/mega-what-it-shows/issues/3", "title": "Dates move by one day across time zones" }
+}
